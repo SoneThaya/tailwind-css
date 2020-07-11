@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jshint": "^2.11.1",
     "tailwindcss": "^1.4.6"
   }
 }
